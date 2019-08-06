@@ -9,6 +9,6 @@ Test Teardown     Close Browser
 
 *** Test Cases ***
 Change Profile
-	 Fill In General Information    Mati    female    parool    tahanVormi
+	 Fill In General Information    Mati    female    parool    pumpameVormi
      
      

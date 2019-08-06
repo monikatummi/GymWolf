@@ -3,9 +3,9 @@
 ## Description
 This project is about automated tests for GymWolf application. 
 There are 3 tests
-* Test1 changes the user profile 
-* Test2 chooses the personal trainer
-* Test3 creates the workout 
+* ChangeProfile fills in the user profile 
+* ChoosingTrainer chooses the personal trainer
+* CreatingWorkout creates the workout 
 
 ## Technologies
 Project is created with:
